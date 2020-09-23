@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/navigation",
+    "name": "codica-studio/navigation",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/navigation",
+    "homepage": "https://github.com/codica-studio/navigation",
     "license": "MIT",
     "authors": [
         {
