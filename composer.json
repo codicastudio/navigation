@@ -1,5 +1,5 @@
 {
-    "name": "codica-studio/navigation",
+    "name": "codicastudio/navigation",
     "description": "A random Codica Studio package.",
 
     "homepage": "https://github.com/codicastudio/navigation",
@@ -49,6 +49,6 @@
             }
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
